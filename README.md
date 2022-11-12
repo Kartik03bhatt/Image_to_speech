@@ -1,5 +1,7 @@
 # Text_to_speech_from_image
-This Python application can read text from image using AWS services like AMAZON POLLY and AMAZON TEXTRACT.\n
+This Python application can read text from image using AWS services like AMAZON POLLY and AMAZON TEXTRACT.
+
+
 This python script use boto3 to communicate with AWS to use services. In AWS, Amazon Textract extract text from image and store it in a string and 
 Amazin Polly will convert this string to audio.
 
