@@ -8,6 +8,12 @@ Amazin Polly will convert this string to audio.
 # Requirement
 Any OS system with Python compiler and Amazon CLI installed.
 
+Python Libraries to download: Boto3 and Pillow or PIL.
+
+* Guide to download Python Libraries:
+   * https://boto3.amazonaws.com/v1/documentation/api/latest/guide/quickstart.html  (for BOTO3)
+   * https://pillow.readthedocs.io/en/latest/installation.html (For Pillow)
+
 # How to run code:
  * First of all configure your AWS account using CLI (its better if it is named profile than default). 
  * To configure follow these docs: 
