@@ -1,4 +1,4 @@
-# Text_to_speech_from_image
+# Image to Speech
 This Python application can read text from image using AWS services like AMAZON POLLY and AMAZON TEXTRACT.
 
 
