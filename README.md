@@ -8,7 +8,7 @@ Amazin Polly will convert this string to audio.
 # Requirement
 Any OS system with Python compiler and Amazon CLI installed.
 
-Python Libraries to download: Boto3 and Pillow or PIL.
+ALSO Python Libraries to download: Boto3 and Pillow or PIL.
 
 * Guide to download Python Libraries:
    * https://boto3.amazonaws.com/v1/documentation/api/latest/guide/quickstart.html  (for BOTO3)
