@@ -20,4 +20,4 @@ ALSO Python Libraries to download: Boto3 and Pillow or PIL.
       * https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-profiles.html
       * https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-quickstart.html
  * Now go to code and in line no. 16 and change the profile name from 'kartik_aws' to your profile name you just set up.
- * Just save the code and you are ready to go..
+ * Just save the code and you are ready to go.
